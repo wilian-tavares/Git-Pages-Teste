@@ -1,0 +1,66 @@
+* {
+    border-style: 0;
+    margin: 0;
+}
+
+body {
+    background: #ccc;
+    font-size: 1.2rem;
+    font-family: 'Times New Roman', Times, sans-serif;
+}
+
+#top {
+    width: 100%;
+    height: 150px;
+    background: rgb(143, 163, 163);
+    
+    display: flex;
+    justify-items: center;
+    
+}
+
+#top header {
+    
+    line-height: 120px;
+    margin: 0 auto;
+   
+}
+
+#top form{
+    border: 1px solid red;    
+}
+
+#top form .email, .senha {
+    font-size: 1rem;
+    width: 300px;
+    height: 30px;
+    margin-top: 10px;
+    
+    
+}
+#top form .botaoLogin {
+    
+    color: #fff;
+    font-size: 1rem;
+
+    background: green;
+    width: 200px;
+    height: 40px;
+    margin-top: 10px;
+
+    align-content: center;
+
+}
+
+
+
+/* 
+    CONTAINER
+*/
+
+#container {
+                 ;
+    width: 100%;
+    border: 1px solid rgb(0, 255, 13);
+    justify-content: center;
+}
