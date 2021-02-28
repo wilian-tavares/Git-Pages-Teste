@@ -58,8 +58,7 @@ body {
     CONTAINER
 */
 
-#container {
-                 ;
+#container {             
     width: 100%;
     border: 1px solid rgb(0, 255, 13);
     justify-content: center;
