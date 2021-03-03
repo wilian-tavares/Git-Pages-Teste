@@ -38,12 +38,10 @@ body {
     
     
 }
-#top form .botaoLogin {
-    
+#top form .botaoLogin {   
     color: #fff;
     font-size: 1rem;
 
-    background: green;
     width: 200px;
     height: 40px;
     margin-top: 10px;
